@@ -5,31 +5,39 @@ Once a complaint has been registered, it is then assigned to an employee respons
 Green City helps to promote a cleaner and greener urban environment by providing a centralized platform for residents to report and track issues related to garbage and sewage. By identifying and resolving these issues, the system can help to reduce pollution and improve the overall health and wellbeing of residents. Furthermore, by addressing the root causes of these problems, Green City can help to create a more sustainable future for cities.
 Overall, Green City is a valuable tool for municipalities and local governments looking to improve their garbage and sewage management systems. By providing an efficient and effective means of addressing complaints, the system can help to create a cleaner and more sustainable urban environment, improving the quality of life for residents and promoting economic development.
 
-This project was build using python framework Django, frontend tools html,css,bootstrap and javascript, and Sqlite3 Database.
+This project was build using 
+#Django
+#html
+#css
+#bootstrap
+#sqlite3
 
 Add your mail id and app password in the mail.py file
 
-To run this project open the cmd in the directory where the manage.py file exists
+#To run this project
+open the cmd in the directory where the manage.py file exists
 
 First Make sure you have installed python and install the packages used in this project by pip command
 
-pip install -r requirements.txt 
+ pip install -r requirements.txt 
 
 Second open cmd in the directory where the manage.py file exists, Enter the below commands
 
-python manage.py makemigrations
-python manage.py migrate
-python manage.py runserver
+ python manage.py makemigrations
+ python manage.py migrate
+ python manage.py runserver
 
+#Admin
 I have already created the admin(superuser)
 username: admin
 password: admin
 
+#Deployed link
 you can see this project output live by clicking this link sivarajpaldurai.pythonanywhere.com
 
 If you like this project hit a star button. 
 
-Designed and Developed by,  Sivaraj-P
+#Designed and Developed by,  Sivaraj-P
     
                 
 
